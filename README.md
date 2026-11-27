@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jhonnatan-penate"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jhonnatan--penate-2F5BFF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:jhonnatanpenate@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/Correo-jhonnatanpenate%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img alt="Ubicación" src="https://img.shields.io/badge/Santa%20Tecla-El%20Salvador-5B6270?style=for-the-badge">
+  <img alt="Ubicación" src="https://img.shields.io/badge/El%20Salvador-5B6270?style=for-the-badge">
 </p>
 
 <picture>
