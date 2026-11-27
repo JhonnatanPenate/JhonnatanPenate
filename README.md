@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/masthead-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/masthead-light.svg">
+  <img src="assets/masthead-light.svg" alt="Jhonnatan Peñate — Cuaderno de laboratorio: backend y nube" width="100%">
+</picture>
+
 ## Hi there 👋
 
 <!--
