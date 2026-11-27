@@ -106,7 +106,7 @@ Evidencia por capa →
 |---|---|
 | **Qué pasó** | Los intentos de desplegar el backend en EC2 no funcionaron. |
 | **Cómo lo resolví** | Cambié a AWS Elastic Beanstalk, con la infraestructura en Terraform, y el equipo de planta pudo probar el sistema a distancia. |
-| **Lección** | _[pendiente: escríbela tú]_ |
+| **Lección** | Si un servicio no encaja con el caso, cambiar de enfoque antes que forzarlo. |
 
 </details>
 
