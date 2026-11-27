@@ -121,3 +121,16 @@ Evidencia por capa →
 | **Lección** | Un control de seguridad solo cuenta si lo pruebas fallando. |
 
 </details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sec-contacto-dark.svg">
+  <img alt="06 · Contacto" src="assets/sec-contacto-light.svg" width="100%">
+</picture>
+
+<p align="center">
+  ¿Una práctica, un proyecto o una buena conversación sobre backend y nube? Escríbeme.<br><br>
+  <a href="https://www.linkedin.com/in/jhonnatan-penate"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jhonnatan--penate-2F5BFF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:jhonnatanpenate@gmail.com"><img alt="Correo" src="https://img.shields.io/badge/Correo-jhonnatanpenate%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<p align="center"><sub><i>Cuaderno de laboratorio · Nº 01 · escrito en Markdown, con SVG generados en Python · El Salvador.</i></sub></p>
