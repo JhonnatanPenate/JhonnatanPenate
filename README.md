@@ -38,3 +38,21 @@ Soy estudiante de tercer año de **Ingeniería de Software y Negocios Digitales*
 | 🗣️ | **Inglés técnico** | Práctica de conversación para entrevistas. |
 | 🔭 | **Métricas confiables** *(próximo)* | Agente de IA que responde solo con métricas certificadas: PostgreSQL + MongoDB, modelos y pruebas en dbt, CI con GitHub Actions y contexto vía MCP. |
 | ✅ | **[Cloud DevSecOps Labs](https://github.com/JhonnatanPenate/cloud-devsecops-labs)** | 18 laboratorios en AWS, documentados con una etiqueta por lab. |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sec-mapa-dark.svg">
+  <img alt="03 · Mapa del laboratorio" src="assets/sec-mapa-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/capas-dark.svg">
+  <img alt="Capas del laboratorio, de la base a la nube: Linux, redes y Git; bases de datos; backend; pruebas; CI/CD y seguridad; nube e IaC; y, como próximo paso, datos + IA." src="assets/capas-light.svg" width="100%">
+</picture>
+
+<p align="center"><sub>
+Evidencia por capa →
+<a href="https://github.com/JhonnatanPenate/hospital-management-database">Bases de datos</a> ·
+<a href="https://github.com/JhonnatanPenate/cloud-devsecops-labs">CI/CD y seguridad</a> ·
+<a href="https://github.com/JhonnatanPenate/cloudshop-supernube">Nube e IaC</a> ·
+<a href="https://github.com/JhonnatanPenate/enterprise-app-modernization">Microservicios</a>
+</sub></p>
