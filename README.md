@@ -56,3 +56,24 @@ Evidencia por capa →
 <a href="https://github.com/JhonnatanPenate/cloudshop-supernube">Nube e IaC</a> ·
 <a href="https://github.com/JhonnatanPenate/enterprise-app-modernization">Microservicios</a>
 </sub></p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sec-destacados-dark.svg">
+  <img alt="04 · Experimentos destacados" src="assets/sec-destacados-light.svg" width="100%">
+</picture>
+
+<p align="center">
+  <a href="https://github.com/JhonnatanPenate/cloud-devsecops-labs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/exp-01-dark.svg"><img alt="EXP-01: cloud-devsecops-labs" src="assets/exp-01-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/JhonnatanPenate/enterprise-app-modernization"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/exp-02-dark.svg"><img alt="EXP-02: enterprise-app-modernization" src="assets/exp-02-light.svg" width="49%"></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JhonnatanPenate/nasa-maze"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/exp-03-dark.svg"><img alt="EXP-03: nasa-maze" src="assets/exp-03-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/JhonnatanPenate/cloudshop-supernube"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/exp-04-dark.svg"><img alt="EXP-04: cloudshop-supernube" src="assets/exp-04-light.svg" width="49%"></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JhonnatanPenate/hospital-management-database"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/exp-05-dark.svg"><img alt="EXP-05: hospital-management-database" src="assets/exp-05-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/JhonnatanPenate/SivarCuponera"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/exp-06-dark.svg"><img alt="EXP-06: SivarCuponera" src="assets/exp-06-light.svg" width="49%"></picture></a>
+</p>
